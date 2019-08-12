@@ -1,0 +1,10 @@
+C:\Users\Fun Box\source\repos\CST-117_Programming_Project_1\CST-117_Programming_Project_1\bin\Debug\CST-CST-117_Programming_Project_1.exe.config
+C:\Users\Fun Box\source\repos\CST-117_Programming_Project_1\CST-117_Programming_Project_1\bin\Debug\CST-CST-117_Programming_Project_1.exe
+C:\Users\Fun Box\source\repos\CST-117_Programming_Project_1\CST-117_Programming_Project_1\bin\Debug\CST-CST-117_Programming_Project_1.pdb
+C:\Users\Fun Box\source\repos\CST-117_Programming_Project_1\CST-117_Programming_Project_1\obj\Debug\CST-117_Programming_Project_1.csprojAssemblyReference.cache
+C:\Users\Fun Box\source\repos\CST-117_Programming_Project_1\CST-117_Programming_Project_1\obj\Debug\CST_117_Exercise_2.Form1.resources
+C:\Users\Fun Box\source\repos\CST-117_Programming_Project_1\CST-117_Programming_Project_1\obj\Debug\CST-117_Programming_Project_1.Properties.Resources.resources
+C:\Users\Fun Box\source\repos\CST-117_Programming_Project_1\CST-117_Programming_Project_1\obj\Debug\CST-117_Programming_Project_1.csproj.GenerateResource.cache
+C:\Users\Fun Box\source\repos\CST-117_Programming_Project_1\CST-117_Programming_Project_1\obj\Debug\CST-117_Programming_Project_1.csproj.CoreCompileInputs.cache
+C:\Users\Fun Box\source\repos\CST-117_Programming_Project_1\CST-117_Programming_Project_1\obj\Debug\CST-CST-117_Programming_Project_1.exe
+C:\Users\Fun Box\source\repos\CST-117_Programming_Project_1\CST-117_Programming_Project_1\obj\Debug\CST-CST-117_Programming_Project_1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Fun Box\source\repos\CST-117_Exercise_2\CST-117_Exercise_2\obj\Debug\CST_117_Exercise_2.Form1.resources
+C:\Users\Fun Box\source\repos\CST-117_Exercise_2\CST-117_Exercise_2\obj\Debug\CST-117_Exercise_2.csproj.GenerateResource.cache
+C:\Users\Fun Box\source\repos\CST-117_Exercise_2\CST-117_Exercise_2\obj\Debug\CST-117_Exercise_2.csproj.CoreCompileInputs.cache
+C:\Users\Fun Box\source\repos\CST-117_Exercise_2\CST-117_Exercise_2\bin\Debug\CST-117_Exercise_3.exe.config
+C:\Users\Fun Box\source\repos\CST-117_Exercise_2\CST-117_Exercise_2\bin\Debug\CST-117_Exercise_3.exe
+C:\Users\Fun Box\source\repos\CST-117_Exercise_2\CST-117_Exercise_2\bin\Debug\CST-117_Exercise_3.pdb
+C:\Users\Fun Box\source\repos\CST-117_Exercise_2\CST-117_Exercise_2\obj\Debug\CST_117_Exercise_3.Properties.Resources.resources
+C:\Users\Fun Box\source\repos\CST-117_Exercise_2\CST-117_Exercise_2\obj\Debug\CST-117_Exercise_3.exe
+C:\Users\Fun Box\source\repos\CST-117_Exercise_2\CST-117_Exercise_2\obj\Debug\CST-117_Exercise_3.pdb
