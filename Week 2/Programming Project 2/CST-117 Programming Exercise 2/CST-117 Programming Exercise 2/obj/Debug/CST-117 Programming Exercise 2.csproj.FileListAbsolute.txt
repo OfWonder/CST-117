@@ -1,0 +1,10 @@
+C:\Users\Fun Box\source\repos\CST-117 Programming Exercise 2\CST-117 Programming Exercise 2\bin\Debug\CST-117 Programming Exercise 2.exe.config
+C:\Users\Fun Box\source\repos\CST-117 Programming Exercise 2\CST-117 Programming Exercise 2\bin\Debug\CST-117 Programming Exercise 2.exe
+C:\Users\Fun Box\source\repos\CST-117 Programming Exercise 2\CST-117 Programming Exercise 2\bin\Debug\CST-117 Programming Exercise 2.pdb
+C:\Users\Fun Box\source\repos\CST-117 Programming Exercise 2\CST-117 Programming Exercise 2\obj\Debug\CST_117_Programming_Exercise_2.Form1.resources
+C:\Users\Fun Box\source\repos\CST-117 Programming Exercise 2\CST-117 Programming Exercise 2\obj\Debug\CST_117_Programming_Exercise_2.Properties.Resources.resources
+C:\Users\Fun Box\source\repos\CST-117 Programming Exercise 2\CST-117 Programming Exercise 2\obj\Debug\CST-117 Programming Exercise 2.csproj.GenerateResource.cache
+C:\Users\Fun Box\source\repos\CST-117 Programming Exercise 2\CST-117 Programming Exercise 2\obj\Debug\CST-117 Programming Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\Fun Box\source\repos\CST-117 Programming Exercise 2\CST-117 Programming Exercise 2\obj\Debug\CST-117 Programming Exercise 2.exe
+C:\Users\Fun Box\source\repos\CST-117 Programming Exercise 2\CST-117 Programming Exercise 2\obj\Debug\CST-117 Programming Exercise 2.pdb
+C:\Users\Fun Box\source\repos\CST-117 Programming Exercise 2\CST-117 Programming Exercise 2\obj\Debug\CST-117 Programming Exercise 2.csprojAssemblyReference.cache

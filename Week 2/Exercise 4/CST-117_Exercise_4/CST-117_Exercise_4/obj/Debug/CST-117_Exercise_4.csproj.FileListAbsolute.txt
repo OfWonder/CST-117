@@ -1,0 +1,10 @@
+C:\Users\Fun Box\source\repos\CST-117_Exercise_4\CST-117_Exercise_4\bin\Debug\CST-117_Exercise_4.exe.config
+C:\Users\Fun Box\source\repos\CST-117_Exercise_4\CST-117_Exercise_4\bin\Debug\CST-117_Exercise_4.exe
+C:\Users\Fun Box\source\repos\CST-117_Exercise_4\CST-117_Exercise_4\bin\Debug\CST-117_Exercise_4.pdb
+C:\Users\Fun Box\source\repos\CST-117_Exercise_4\CST-117_Exercise_4\obj\Debug\CST-117_Exercise_4.csprojAssemblyReference.cache
+C:\Users\Fun Box\source\repos\CST-117_Exercise_4\CST-117_Exercise_4\obj\Debug\CST_117_Exercise_4.Form1.resources
+C:\Users\Fun Box\source\repos\CST-117_Exercise_4\CST-117_Exercise_4\obj\Debug\CST_117_Exercise_4.Properties.Resources.resources
+C:\Users\Fun Box\source\repos\CST-117_Exercise_4\CST-117_Exercise_4\obj\Debug\CST-117_Exercise_4.csproj.GenerateResource.cache
+C:\Users\Fun Box\source\repos\CST-117_Exercise_4\CST-117_Exercise_4\obj\Debug\CST-117_Exercise_4.csproj.CoreCompileInputs.cache
+C:\Users\Fun Box\source\repos\CST-117_Exercise_4\CST-117_Exercise_4\obj\Debug\CST-117_Exercise_4.exe
+C:\Users\Fun Box\source\repos\CST-117_Exercise_4\CST-117_Exercise_4\obj\Debug\CST-117_Exercise_4.pdb
